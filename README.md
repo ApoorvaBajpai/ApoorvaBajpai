@@ -34,8 +34,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.com/u/ap09042001/">
-    <img src="https://leetcard.jacoblin.cool/u/ap09042001?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/ap09042001/">
+    <img src="https://leetcard.jacoblin.cool/ap09042001?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvaBajpai&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
